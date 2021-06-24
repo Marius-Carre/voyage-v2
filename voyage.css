@@ -1,0 +1,16 @@
+.header {
+    width: 100%;
+    height: 300px;
+    color: #fff;
+    background:url(https://www.nomade-aventure.com/Content/Images/ImgProduits/MAR/371123_Panorama_xl.ori.jpg);
+     background-position: center;
+     background-repeat: no-repeat;
+    text-align: center;
+    padding:1px
+}
+
+h1 {
+text-align: center;
+color: black;
+font-weight: strong;
+} 
